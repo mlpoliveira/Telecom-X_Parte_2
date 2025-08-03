@@ -8,8 +8,11 @@ Este relatório detalha o processo de desenvolvimento de modelos preditivos para
 ### Estrutura do Projeto
 
 ├── Churn_Analysis_Improved.ipynb # Notebook principal com todo o pipeline
+
 ├── dados_transformados.csv # Base de dados tratada usada para modelagem
+
 ├── RelatóriodePrevisãodeChurn-TelecomX.md # Relatório detalhado do projeto
+
 └── Imagens e gráficos gerados na EDA
 
 ## 2. Preparação dos Dados
