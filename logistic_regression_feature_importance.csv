@@ -1,0 +1,46 @@
+,0
+num__tenure,-1.5233131541407638
+num__Charges.Monthly,0.3105506410581449
+num__Charges.Total,0.4147972436143683
+num__AvgMonthlyCharge,-0.2969297197504084
+cat__gender_Female,-0.11437006615840781
+cat__gender_Male,-0.15040606690749603
+cat__SeniorCitizen_No,-0.23212673370791806
+cat__SeniorCitizen_Yes,-0.03264939935927103
+cat__Partner_No,-0.140771045693227
+cat__Partner_Yes,-0.12400508737252255
+cat__Dependents_No,-0.07730154098408525
+cat__Dependents_Yes,-0.18747459208348322
+cat__PhoneService_No,0.024459471878367958
+cat__PhoneService_Yes,-0.28923560494474965
+cat__MultipleLines_No,-0.30906539967908886
+cat__MultipleLines_No phone service,0.024459471878367958
+cat__MultipleLines_Yes,0.019829794735383828
+cat__InternetService_DSL,-0.1127512131702131
+cat__InternetService_Fiber optic,0.7051419940463318
+cat__InternetService_No,-0.8571669139413988
+cat__OnlineSecurity_No,0.02438889017172334
+cat__OnlineSecurity_Yes,-0.28916502323850196
+cat__OnlineBackup_No,-0.03774726023424921
+cat__OnlineBackup_Yes,-0.2270288728322433
+cat__DeviceProtection_No,-0.1321632951266433
+cat__DeviceProtection_Yes,-0.13261283793937406
+cat__TechSupport_No,0.0223151447816308
+cat__TechSupport_Yes,-0.28709127784859606
+cat__StreamingTV_No,-0.2597297105293425
+cat__StreamingTV_Yes,-0.005046422536318054
+cat__StreamingMovies_No,-0.23590534220649284
+cat__StreamingMovies_Yes,-0.028870790859442295
+cat__Contract_Month-to-month,0.6688196455400661
+cat__Contract_One year,-0.07238843225369562
+cat__Contract_Two year,-0.8612073463531762
+cat__PaperlessBilling_No,-0.2799747515819382
+cat__PaperlessBilling_Yes,0.015198618516787754
+cat__PaymentMethod_Bank transfer (automatic),-0.10500051926486766
+cat__PaymentMethod_Credit card (automatic),-0.21926139043536258
+cat__PaymentMethod_Electronic check,0.2272083639079193
+cat__PaymentMethod_Mailed check,-0.16772258727339062
+cat__tenure_group_+3 anos,0.5558768353095318
+cat__tenure_group_0-1 ano,-0.12757801798081458
+cat__tenure_group_1-2 anos,-0.4110762540515872
+cat__tenure_group_2-3 anos,-0.2819986963424362

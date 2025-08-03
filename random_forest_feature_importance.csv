@@ -1,0 +1,46 @@
+,0
+num__tenure,0.11124258794470857
+num__Charges.Monthly,0.11115477230483628
+num__Charges.Total,0.12008425691876924
+num__AvgMonthlyCharge,0.11296236332127498
+cat__gender_Female,0.016362428554771248
+cat__gender_Male,0.01569668982195725
+cat__SeniorCitizen_No,0.011459267766443066
+cat__SeniorCitizen_Yes,0.011641358511447313
+cat__Partner_No,0.013134380897301281
+cat__Partner_Yes,0.012356087895973818
+cat__Dependents_No,0.010260180611872647
+cat__Dependents_Yes,0.011231565761827395
+cat__PhoneService_No,0.0029309887247177782
+cat__PhoneService_Yes,0.002724846239569308
+cat__MultipleLines_No,0.01114211478184909
+cat__MultipleLines_No phone service,0.002907560438391902
+cat__MultipleLines_Yes,0.011271503163954416
+cat__InternetService_DSL,0.007804227939062548
+cat__InternetService_Fiber optic,0.033438164064007396
+cat__InternetService_No,0.012269178110568416
+cat__OnlineSecurity_No,0.012478557879686413
+cat__OnlineSecurity_Yes,0.01121696069986271
+cat__OnlineBackup_No,0.01236794433735113
+cat__OnlineBackup_Yes,0.011924570914594285
+cat__DeviceProtection_No,0.011040437335552046
+cat__DeviceProtection_Yes,0.009782823781431606
+cat__TechSupport_No,0.012349352554121082
+cat__TechSupport_Yes,0.012071485404364415
+cat__StreamingTV_No,0.010221239261471305
+cat__StreamingTV_Yes,0.008885005235939226
+cat__StreamingMovies_No,0.009451149254215653
+cat__StreamingMovies_Yes,0.010286178182727071
+cat__Contract_Month-to-month,0.050793077123000775
+cat__Contract_One year,0.010413538047450361
+cat__Contract_Two year,0.019991935966340555
+cat__PaperlessBilling_No,0.014906019085577444
+cat__PaperlessBilling_Yes,0.013039800481510853
+cat__PaymentMethod_Bank transfer (automatic),0.010657032848486745
+cat__PaymentMethod_Credit card (automatic),0.010913539341605693
+cat__PaymentMethod_Electronic check,0.03117387416159158
+cat__PaymentMethod_Mailed check,0.009637467770041945
+cat__tenure_group_+3 anos,0.013719199464730353
+cat__tenure_group_0-1 ano,0.02867796550773399
+cat__tenure_group_1-2 anos,0.006075343523600558
+cat__tenure_group_2-3 anos,0.005850978063708426
